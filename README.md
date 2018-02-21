@@ -23,4 +23,3 @@ If you use this code in your work, you are welcome to cite our ICTIR 2017 [paper
  publisher = {ACM},
 } 
 ```
-ji:
