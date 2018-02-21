@@ -1,3 +1,8 @@
+--[[
+    Training DSRIM network
+    @author Gia-Hung Nguyen
+    @email gia-hung.nguyen@irit.fr
+--]]
 require 'nn'
 nninit = require 'nninit'
 require 'optim'
